@@ -1,0 +1,66 @@
+{
+  "dataset_name": "EICCD",
+  "version": 1.0,
+  "categories": [
+    {
+      "name": "Food and beverage",
+      "code": "FOOD_AND_BEVERAGE",
+      "description": "Food and Beverage & Prepared or made-to-order dishes and drinks ready to consume as served, including cooked meals, brewed or mixed drinks, and desserts; classified by the item itself, not where it was bought."
+    },
+    {
+      "name": "Groceries",
+      "code": "GROCERIES",
+      "description": "Raw ingredients, fresh produce, and packaged food or beverage retail items, including dairy, meat, packaged snacks, condiments, and baking ingredients."
+    },
+    {
+      "name": "Transportation",
+      "code": "TRANSPORTATION",
+      "description": "Vehicle and movement-related expenses, including fuel, public transport, taxi, ride-hailing, parking, tolls, vehicle parts, and servicing such as repair and maintenance."
+    },
+    {
+      "name": "Shopping",
+      "code": "SHOPPING",
+      "description": "Physical goods not covered by a more specific category, including clothing, electronics, household and cleaning items, toys, accessories, gifts, and gift cards."
+    },
+    {
+      "name": "Entertainment",
+      "code": "ENTERTAINMENT",
+      "description": "Leisure and recreational activities, including movies, games and gaming accessories, streaming services, events, and hobbies."
+    },
+    {
+      "name": "Health, Wellness and Personal Care",
+      "code": "HEALTH_WELLNESS_AND_PERSONAL_CARE",
+      "description": "Health and personal care expenses, including doctor and dental visits, pharmacy items, gym, salon, grooming, hygiene, and baby care products; excludes household cleaning products (see Shopping)."
+    },
+    {
+      "name": "Housing",
+      "code": "HOUSING",
+      "description": "Costs directly related to housing and accommodation, including rent, home maintenance, and home services."
+    },
+    {
+      "name": "Utilities",
+      "code": "UTILITIES",
+      "description": "Essential recurring services, including electricity, water, gas, internet, phone services, and postal delivery."
+    },
+    {
+      "name": "Education",
+      "code": "EDUCATION",
+      "description": "Learning and education expenses, including tuition, training courses, and educational materials."
+    },
+    {
+      "name": "Travel",
+      "code": "TRAVEL",
+      "description": "Travel and holiday-related expenses, including flights, hotels, and vacation bookings."
+    },
+    {
+      "name": "Financial",
+      "code": "FINANCIAL",
+      "description": "Financial obligations and services, including loan payments, interest, insurance, bank fees, and payment cards."
+    },
+    {
+      "name": "Other",
+      "code": "OTHER",
+      "description": "Items that do not clearly fit any defined category, including unidentifiable items, internal codes, and items with insufficient information for classification."
+    }
+  ]
+}
