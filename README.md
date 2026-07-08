@@ -1,12 +1,12 @@
-# EICCD: Expense Item Category Classification Dataset
+# EICD: Expense Item Classification Dataset
 
-EICCD is a dataset of 11,077 personal expense items extracted from two
+EICD is a dataset of 11,077 personal expense items extracted from two
 public receipt datasets (CORD and WildReceipt), annotated with a unified
 12-category personal expense taxonomy. It supports research in expense
 item classification and personal finance analytics.
 
 This dataset accompanies the paper *"Toward AI-Driven Expense Analytics:
-An Expense Item Category Dataset"* (under review, 2026).
+An Expense Item Classification Dataset"* (under review, 2026).
 
 ## Files
 
@@ -44,7 +44,7 @@ Quality was validated on an independent blind annotation of a stratified
 
 ```bibtex
 @inproceedings{tran2026eiccd,
-  title={Toward AI-Driven Expense Analytics: An Expense Item Category Dataset},
+  title={Toward AI-Driven Expense Analytics: An Expense Item Classification Dataset},
   author={Tran, Thi My Dung and Zhang, Zhongwei and Nguyen-Huy, Thong and Sahi, Aqeel},
   booktitle={[to be updated upon acceptance]},
   year={2026}
