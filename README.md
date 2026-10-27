@@ -50,3 +50,14 @@ Quality was validated on an independent blind annotation of a stratified
   year={2026}
 }
 ```
+
+
+## Source Data and Licences
+
+EICD is derived from the item names in two public receipt datasets:
+
+- **CORD**: licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **WildReceipt**: licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+We extracted item names from the original ground truth annotations and added expense category labels. No receipt images are included.
+If you use EICD, please also cite the original CORD and WildReceipt papers.
