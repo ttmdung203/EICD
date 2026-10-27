@@ -40,16 +40,6 @@ suggestions, followed by manual annotation and a second review pass.
 Quality was validated on an independent blind annotation of a stratified
 500-sample subset, achieving Cohen's Kappa = 0.8444.
 
-## Citation
-
-```bibtex
-@inproceedings{tran2026eiccd,
-  title={Toward AI-Driven Expense Analytics: An Expense Item Category Dataset},
-  author={Tran, Thi My Dung and Zhang, Zhongwei and Nguyen-Huy, Thong and Sahi, Aqeel},
-  booktitle={[to be updated upon acceptance]},
-  year={2026}
-}
-```
 
 
 ## Source Data and Licences
@@ -61,3 +51,15 @@ EICD is derived from the item names in two public receipt datasets:
 
 We extracted item names from the original ground truth annotations and added expense category labels. No receipt images are included.
 If you use EICD, please also cite the original CORD and WildReceipt papers.
+
+## Citation
+
+```bibtex
+@inproceedings{tran2026eiccd,
+  title={Toward AI-Driven Expense Analytics: An Expense Item Category Dataset},
+  author={Tran, Thi My Dung and Zhang, Zhongwei and Nguyen-Huy, Thong and Sahi, Aqeel},
+  booktitle={[to be updated upon acceptance]},
+  year={2026}
+}
+```
+
